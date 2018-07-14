@@ -1,0 +1,10 @@
+﻿I'm sorry, but errors were detected in your script. Please correct the
+errors listed below, and try again.
+
+
+File "game/script.rpy", line 204: expected menuitem
+    yalign 0.25
+    ^
+
+Ren'Py Version: Ren'Py 6.99.14.3.3347
+Sun Apr 29 14:22:41 2018
